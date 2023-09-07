@@ -1,0 +1,59 @@
+.imgtext {
+    padding-left: 60px;
+    padding-top: 50px;
+
+}
+
+.titlesec1 {
+    font-size: 3rem;
+    color: #000;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.descrsec1 {
+    font-size: 2rem;
+    color: #000;
+    padding-bottom: 20px;
+}
+
+#descriptionsec1 {
+    font-weight: 800;
+}
+
+#shopNowbtn{
+    background-color: #fff;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+#shopNowbtn a{
+    background-color: #fff;
+}
+
+#shopNowbtn a:hover{
+    background-color: #8F1111;
+}
+
+.content {
+    z-index: 1;
+    position: relative; 
+}
+
+/* .footer{
+    margin-top: 100000000px !important;
+} */
+
+/* */
+
+.starimg{
+    max-width: 1.9%;  
+    height: auto;
+}
+
+.navbar {
+    align-items: center;
+}
+
+
+

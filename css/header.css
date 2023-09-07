@@ -1,0 +1,83 @@
+#siteBrand {
+    font-family: 'Source Serif Pro', serif;
+    letter-spacing : -1px;
+    font-size:47px;
+    color:#252525;
+    line-height : 1em;
+    font-weight: 700;
+}
+
+/* Styling for the user icon */
+.fa-circle-user, .fa-cart-shopping {
+    color: black; /* Set the color to black */
+    background-color: transparent; /* Remove any background color */
+    border: none; /* Remove any border */
+    transition: none; /* Remove hover transition */
+}
+
+.flex2.text-end.d-none.d-md-block {
+    margin-left: 80px; /* Adjust the value as needed */
+    
+}
+
+/* CSS for the search bar with a grey circular border */
+.search-bar {
+    display: inline-block;
+    border: 2px solid grey;
+    border-radius: 50px; /* This value controls the roundness of the border */
+    padding: 5px 10px; /* Adjust padding as needed to control the size */
+}
+
+/* Additional CSS to style the input field */
+#searchInput {
+    border: none; /* Remove the input's border */
+    outline: none; /* Remove the input's outline when focused */
+    transition: width 0.3s ease-in-out; /* Add a smooth transition effect */
+}
+
+/* Adjust the search icon color when the search bar is open */
+#searchIcon {
+    color: black;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+/* CSS to change the search icon color when the search bar is open */
+#app[data-state="open"] #searchIcon {
+    color: black;
+}
+
+.navbar {
+    align-items: center;
+}
+
+.menu-item{
+    font-size: 1.3rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #000;
+    line-height: 10px;
+    background: none;
+    max-width: 200px;
+    text-decoration: none;
+}
+
+.menu-item a {
+    color: black;
+}
+
+.menu-item:hover {
+    color: #8F1111;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+

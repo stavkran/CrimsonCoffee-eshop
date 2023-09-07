@@ -1,0 +1,72 @@
+.footertitle{
+    font-size: 1.5rem;
+    color: #000;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.footerlink{
+    font-size: 1.3rem;
+    color: #000;
+    text-decoration: none;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    text-align: left;
+}
+
+.footerlink:hover{
+    color: #8F1111;
+    text-decoration: none;
+}
+
+.socials{
+    color: #000;
+    text-decoration: none;
+    padding-top: 10px;
+    
+
+}
+
+.icon{
+    color:#000;
+    width:50px;
+}
+
+
+/* Add a wrapper for the content to push the footer down */
+/* #content-wrapper {
+    min-height: 100%;
+    position: relative; 
+} */
+
+/* Style your footer */
+.copyright {
+    /* background-color: #BFA736; */
+    color: black;
+    text-align: center;
+    padding: 15px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer{
+    /* padding: 20px 0; 
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 0.1px;
+    width: 100%; */
+    background-color: #BFA736;
+    color: black;
+    text-align: center;
+    padding: 20px 0; 
+    position: absolute;
+    bottom: -10;
+    width: 100%;
+    z-index: 2; 
+}
+
+
+
