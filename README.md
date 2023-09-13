@@ -1,7 +1,4 @@
 ﻿# CrimsonCoffee-eshop
-# Crimson Coffee e-shop
-
-![Crimson Coffee e-shop Logo](logo.png)
 
 Crimson Coffee e-shop is a school project developed for an e-commerce class. This web application allows users to browse and purchase coffee products online. It features a user-friendly shopping page for customers and an admin panel for managing products, prices, users, and orders. The project is built using PHP, JavaScript, HTML, CSS, and is connected to a MongoDB database using Composer for dependency management.
 
