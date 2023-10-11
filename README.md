@@ -31,3 +31,82 @@ Follow these steps to set up the Crimson Coffee e-shop project on your local mac
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Crimson-Coffee-e-shop.git
+
+# Technologies and Pages Overview
+
+This README provides an overview of the technologies used and the pages created for an online store.
+
+## Technologies Used
+The following technologies were used for the implementation of the online store:
+- PHP
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## Pages Created
+
+### End User Pages
+1. Sign-Up Page
+   - Files: `signUp.php`, `SignUpDB.php`
+
+2. Sign-In Page
+   - File: `signIn.php`
+
+3. Home Page
+   - File: `homepage.php`
+
+4. Products Page
+   - Files: `productsPage.php`, `accessoriesPage.php`, `CoffeeBagsPage.php`
+
+5. User Profile
+   - Files: `signIn.php`, `userProfile.php`
+
+6. About Page
+   - File: `about.php`
+
+7. Search Results Page
+   - File: `searchResults.php`
+
+8. Cart Page
+   - File: `cartPage.php`
+
+9. Checkout Page
+   - File: `checkoutPage.php`
+
+10. Order Confirmation Page
+    - File: `orderConfirmation.php`
+
+11. Favorites/Wishlist Page
+    - File: `wishlistPage.php`
+
+12. Purchase History Page
+    - File: `purchaseHistory.php`
+
+13. Log Out
+    - Files: `logout.php`, `logoutSession.php`
+
+14. FAQs Page
+    - File: `faqs.php`
+
+### Administrator Pages
+15. Admin Home Page
+    - File: `adminHomepage.php`
+
+16. User Management
+    - Files: `adminUsersEdit.php`, `editUser.php`
+
+17. User Login History
+    - File: `userLoginHistory.php`
+
+18. Product Management
+    - File: `adminProducts.php`
+
+19. Add Products
+    - File: `adminProducts.php`
+
+20. User Profile
+    - File: `signIn.php`
+
+Please note that this is an overview of the technologies and pages used in the online store's implementation.
+
