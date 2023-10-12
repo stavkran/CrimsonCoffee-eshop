@@ -110,3 +110,15 @@ The following technologies were used for the implementation of the online store:
 
 Please note that this is an overview of the technologies and pages used in the online store's implementation.
 
+# User Final Pages
+
+## Home Page (Functionality 1)
+
+The Home Page serves as the initial landing page for the store, offering information about the products and special offers.
+
+- A company representation photo is featured, providing an overview of the company.
+- Users are informed about free shipping (shipping) to all European Union countries for orders exceeding 60 euros.
+- A 'Shop Now' button is prominently displayed, redirecting users to the product purchasing page.
+
+![User Homepage](./documentation pics/Homepage1.png)
+
