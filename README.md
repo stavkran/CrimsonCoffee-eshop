@@ -120,5 +120,5 @@ The Home Page serves as the initial landing page for the store, offering informa
 - Users are informed about free shipping (shipping) to all European Union countries for orders exceeding 60 euros.
 - A 'Shop Now' button is prominently displayed, redirecting users to the product purchasing page.
 
-![User Homepage](./documentation pics/Homepage1.png)
+![User Homepage](./documentation-pics/Homepage1.png)
 
