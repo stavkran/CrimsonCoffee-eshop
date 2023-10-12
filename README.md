@@ -122,3 +122,40 @@ The Home Page serves as the initial landing page for the store, offering informa
 
 ![User Homepage](./documentation-pics/Homepage1.png)
 
+
+Next, on the following page, you will find the "Crimson Favorites," which essentially showcases the favorite products of the company's employees. This was done because one of the company's goals is to establish personal and long-term relationships with its customers, making them feel closer.
+
+Please note that if an admin user has not added any products to this page, this section will not be displayed.
+
+![User Homepage](./documentation-pics/Homepage2.png)
+
+Next, there is a section that informs users that they have the option to make purchases through social media!
+
+![User Homepage](./documentation-pics/Homepage3.png)
+
+Following that, the next section encourages users to learn more about the company, its history, and the goals it has set. The link directs users to the "About" page (about.php), which provides the above information. Users can also access the About page from the navigation bar by clicking on "About."
+
+![User Homepage](./documentation-pics/Homepage4.png)
+![User Homepage](./documentation-pics/about.png)
+
+One of the company's primary objectives is sustainability. Therefore, the next section on the homepage addresses this. Specifically, it provides information about the sustainability of the products and packaging, certifying that the products have been manufactured with a minimal ecological footprint and without the exploitation of human existence in any way.
+
+![User Homepage](./documentation-pics/Homepage5.png)
+
+At the end of the homepage, there is a form for customers who wish to subscribe to the newsletter and receive notifications about news and special offers.
+
+![User Homepage](./documentation-pics/Homepage6.png)
+
+At the bottom of the page is the footer.
+
+![User Homepage](./documentation-pics/Homepage7.png)
+
+Here, you will find various links and the company's social media profiles in the footer. Additionally, the "FAQs" page is visible, containing various questions that a customer may have.
+![User Homepage](./documentation-pics/faqs.png)
+
+![User Homepage](./documentation-pics/noUserHeader.png)
+
+When a user is not registered or has not logged into their account, the navigation bar of the page is as follows. By clicking on the user icon, the user can log into their account or create a new account.
+
+- User Registration and Login Page
+  
